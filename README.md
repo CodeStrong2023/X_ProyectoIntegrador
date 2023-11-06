@@ -7,6 +7,7 @@ Este proyecto está creado por el grupo X (Ex grupo CDP), consiste en un menú d
 Para ejecutarlo en local:
 
     1- Descargar el archivo desde Github
+
     ```bash
-    git clone 
+        git clone 
    ``` 
