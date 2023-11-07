@@ -6,8 +6,24 @@ Este proyecto está creado por el grupo X (Ex grupo CDP), consiste en un menú d
 
 Para ejecutarlo en local:
 
-    1- Descargar el archivo desde Github
+1- Descargar el archivo desde Github
 
-    ```bash
-        git clone 
-   ``` 
+    git clone https://github.com/CodeStrong2023/X_ProyectoIntegrador.git
+ 
+2- Nos ubicamos en la carpeta donde se encuentra el archivo "LodePipo.java"
+
+   X_ProyectoIntegrador\src\Proyecto\
+
+3 - En la terminal escribimos lo siguiente:
+
+    java LodePipo
+
+El programa debería ejecutarse correctamente.
+
+## Integrantes
+
+- Hernando Joaquín
+- Molina Marcela
+- Pericas Nicolas
+- San Martín Micaela
+- Lede Santino
